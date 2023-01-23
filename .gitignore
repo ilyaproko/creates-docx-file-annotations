@@ -1,0 +1,13 @@
+~*
+
+# folders
+А/
+БСМ/
+.vscode/
+
+# excel files
+*.xls
+*.xlsx
+
+
+
